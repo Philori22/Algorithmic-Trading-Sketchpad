@@ -46,6 +46,7 @@
       <a href="#ros-basics">Introductory</a>
     </li>
     <li><a href="#Algorithmic-Trading">Algorithmic Trading</a></li>
+    <li><a href="#Investment-Fundamentals-&-Data-analytics">Investment Fundamentals & Data analytics</a></li>
   </ol>
 </details>
   </ol>
@@ -54,3 +55,5 @@
 ## Algorithmic Trading
 Algorithmic trading (also called automated trading, black-box trading, or algo-trading) uses a computer program that follows a defined set of instructions (an algorithm) to place a trade. 
 
+## Investment Fundamentals & Data analytics
+Financial calculations and Portfolio optimization tasks using python. 
