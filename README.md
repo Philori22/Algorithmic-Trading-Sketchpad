@@ -45,7 +45,13 @@
     <li>
       <a href="#ros-basics">Introductory</a>
     </li>
-    <li><a href="#Algorithmic-Trading">Algorithmic Trading</a></li>
+    <li><a href="#Algorithmic-Trading">Algorithmic Trading</a>
+    <ul>
+        <li><a href="#Equal-Weight-S&P-500-Index-Fund">Equal-Weight S&P 500 Index Fund </a></li>
+        <li><a href="#Quantitative-Momentum-Investing-Strategy">Quantitative Momentum Investing Strategy</a></li>
+        <li><a href="#Quantitative-Value-Investing-Strategy">Quantitative Value Investing Strategy</a></li>
+      </ul>
+    </li>
     <li><a href="#Investment-Fundamentals-&-Data-analytics">Investment Fundamentals & Data analytics</a></li>
   </ol>
 </details>
@@ -54,6 +60,9 @@
 
 ## Algorithmic Trading
 Algorithmic trading (also called automated trading, black-box trading, or algo-trading) uses a computer program that follows a defined set of instructions (an algorithm) to place a trade. 
+### Equal-Weight S&P 500 Index Fund
+### Quantitative Momentum Investing Strategy
+### Quantitative Value Investing Strategy
 
 ## Investment Fundamentals & Data analytics
 Financial calculations and Portfolio optimization tasks using python. 
